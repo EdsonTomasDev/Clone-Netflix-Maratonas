@@ -55,3 +55,58 @@
     font-style: normal;
     color: rgba(255, 255, 255, 0.48);
 }
+.notifications--large {
+    
+    margin-top: 25px;
+}
+.notifications--large img {
+    width: 375px;
+    height: 195px;
+}
+
+.notification-remind__background {
+    float: right;
+}
+
+.notification-remind {
+   display: flex;
+   align-items: center;
+   text-align: center;
+   margin-right: 22px;
+   margin-top: 20px;
+  
+}
+
+.notification-remind__gingle {
+
+}
+
+.notification-remind__gingle--img {
+    width: 21px;
+    height: 24px;
+}
+
+.notification-remind__share {
+    margin-left: 45px;
+}
+
+.notification-remind__gingle--share {
+    width: 17x;
+    height: 18px;
+    margin-bottom: 6px;
+    
+}
+
+.notification-remind__share p  {
+    font-size: 11px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255, 255, 255, 0.83);
+}
+
+.notification-remind__gingle p {
+    font-size: 11px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255, 255, 255, 0.83);
+}

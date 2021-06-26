@@ -7,7 +7,9 @@ h1,
 h2,
 h3,
 span,
-strong {
+strong,
+ul,
+li {
   color: white;
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }

@@ -2,6 +2,7 @@
 @import '../components/status-bar.css';
 @import '../components/bottom-navbar.css';
 @import url(../components/notifications.css);
+@import url(../components/movie-article.css);
 
 
 body {
