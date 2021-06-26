@@ -1,3 +1,6 @@
+.notifications {
+   
+}
 .notifications__title {
     display: flex;
     align-items: center;
@@ -15,6 +18,14 @@
     font-style: normal;
     margin-left: 7px;
 }
+
+.notifications-background {
+    background: #424242;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+}
+
 
 .notifications__movie {
     display: flex;
@@ -57,11 +68,16 @@
 }
 .notifications--large {
     
-    margin-top: 25px;
+  
 }
 .notifications--large img {
     width: 375px;
     height: 195px;
+}
+
+.notification-remind__background--back {
+   
+    height: 59px;
 }
 
 .notification-remind__background {
